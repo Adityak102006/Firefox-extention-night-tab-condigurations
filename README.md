@@ -1,7 +1,8 @@
 I did some configurations to my firefox so that it looks more better with hyprland using extention so I am sharing my configurations so that you all can use it for your own browser
 And I'll be making more themes for firefox I used the extention night tab and configured it and you all don't have to go through all the process.
 This is the first theme I made Hope you like it.
-![241107_18h56m58s_screenshot](https://github.com/user-attachments/assets/adeb5ef3-0fd3-4967-83a6-e9da752eab99)
+
+![241107_22h37m00s_screenshot](https://github.com/user-attachments/assets/b4e74c59-f719-45eb-87ad-4c01cbcaa958)
 
 Steps to add the config to night tab
 1. Download the night tab extention
