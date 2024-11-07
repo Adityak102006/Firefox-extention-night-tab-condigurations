@@ -15,5 +15,7 @@ Setting night tab as default whenever you open your browser
 2. use custom urls
 3. then click on current page option (make sure you open the night tab in new tab and don't open any website other than that until you are finished)
 
+I am using zen browser which is based on firefox and you can use these themes in brave, chrome etc (if they have this night tab extention)
+
 If you have already made your own themes you can add your config here, contributions will be appreciated.
 Thank you
