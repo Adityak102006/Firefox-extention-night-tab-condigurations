@@ -10,5 +10,10 @@ Steps to add the config to night tab
 4. Scroll down and click on data
 5. and Import the file to your browser
 
+Setting night tab as default whenever you open your browser
+1. Go to your browser settings and then go to home settings
+2. use custom urls
+3. then click on current page option (make sure you open the night tab in new tab and don't open any website other than that until you are finished)
+
 If you have already made your own themes you can add your config here, contributions will be appreciated.
 Thank you
